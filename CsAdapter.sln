@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsAdapter", "CsAdapter\CsAdapter.csproj", "{2823302D-E6A2-466D-B4C6-8FB9643475B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsAdapterTests", "CsAdapterTests\CsAdapterTests.csproj", "{32D30BF3-73BE-48CA-8933-5390AEF1D00D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31170008-3F6A-4553-A1FC-0CE088130295}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2823302D-E6A2-466D-B4C6-8FB9643475B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2823302D-E6A2-466D-B4C6-8FB9643475B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2823302D-E6A2-466D-B4C6-8FB9643475B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2823302D-E6A2-466D-B4C6-8FB9643475B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D30BF3-73BE-48CA-8933-5390AEF1D00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D30BF3-73BE-48CA-8933-5390AEF1D00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D30BF3-73BE-48CA-8933-5390AEF1D00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D30BF3-73BE-48CA-8933-5390AEF1D00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5404C52B-3739-4227-BEC8-509885B5FA01}
+	EndGlobalSection
+EndGlobal
