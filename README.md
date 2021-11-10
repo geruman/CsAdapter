@@ -1,5 +1,5 @@
 # Adapter
-Es un patrón estructural. [Link descripcion](https://sourcemaking.com/design_patterns/adapter)
+Es un patrón estructural. [Link descripción](https://sourcemaking.com/design_patterns/adapter)
 
 El objetivo de un adapter es proveer a una clase cliente de una interfaz conocida con una implementación de la interfaz que "envuelva" la funcionalidad de una clase para la que el cliente no esta preparado para usar, de esta forma la clase "adaptador" implementa la interfaz conocida y realiza las operaciones necesarias para que el cliente pueda interactuar con la clase desconocida.
 
